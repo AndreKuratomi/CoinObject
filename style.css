@@ -1,0 +1,43 @@
+html, body, main, h1, div, img {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 1rem;
+}
+
+h1 {
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+main#jogo {
+    display: flex;
+}
+
+div#nomes {
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+div#dindin {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+@media (min-width: 768px) {
+    h1 {
+        text-align: center;
+    }
+    
+    div#nomes {
+        text-align: center;
+    }
+    
+    div#dindin {
+        justify-content: center;
+    }
+}
