@@ -12,7 +12,7 @@
 <p><strong>CoinObject</strong> é um jogo simples de 'cara ou coroa' aplicado a 20 modeas. Esta aplicação utiliza HTML5, CSS3 e a linguagem Javascript com DOM e Programação Orientada a Objetos.</p>
 <br>
 
-<p>Link vercel:</p>
+<p>Link gitlab:</p>
 https://abkura.gitlab.io/coinobject/
 
 # Instalação
@@ -59,7 +59,7 @@ code .
 <p>A aplicação rodará no navegador automaticamente.</p>
 
 
-<h3>Via Deploy Vercel:</h3>
+<h3>Via Deploy Gitlab:</h3>
 
 <p>Basta clicar no link abaixo:</p>
 
