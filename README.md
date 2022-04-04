@@ -9,7 +9,7 @@
 
 # Descrição
 
-<p><strong>CoinObject</strong> é um jogo simples de 'cara ou coroa' aplicado a 20 modeas. Esta aplicação utiliza HTML5, CSS3 e a linguagem Javascript com DOM e Programação Orientada a Objetos.</p>
+<p><strong>CoinObject</strong> é um jogo simples de 'cara ou coroa' aplicado a 20 moedas. Esta aplicação utiliza HTML5, CSS3 e a linguagem Javascript com DOM e Programação Orientada a Objetos.</p>
 <br>
 
 <p>Link gitlab:</p>
